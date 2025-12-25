@@ -1,0 +1,40 @@
+{
+    "HomePage": {
+        "Title": "Home Page"
+    },
+    "Components": {
+        "Common": {
+            "Button": {
+                "ChangingLocaleButton": {
+                    "en": "English",
+                    "th": "ภาษาไทย"
+                }
+            }
+        },
+        "Layout": {
+            "Navbar": {
+                "HeaderNavbar": {
+                    "Menu": {
+                        "Home": "Home",
+                        "About": "About",
+                        "Profile": "Profile"
+                    },
+                    "Login": "Login",
+                    "SignUp": "SignUp"
+                }
+            }
+        },
+        "Login": {
+            "LoginForm": {
+                "Email": "Email",
+                "Password": "Password",
+                "InvalidEmail": "Invalid email.",
+                "EmptyPassword": "Empty password",
+                "Login": "Login",
+                "LoginError": "The password is incorrect.",
+                "SignUpDescription": "You don't have an account yet, do you?",
+                "SignUp": "Sign up"
+            }
+        }
+    }
+}

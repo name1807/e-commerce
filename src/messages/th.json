@@ -1,0 +1,40 @@
+{
+    "HomePage": {
+        "Title": "หน้าแรก"
+    },
+    "Components": {
+        "Common": {
+            "Button": {
+                "ChangingLocaleButton": {
+                    "en": "English",
+                    "th": "ภาษาไทย"
+                }
+            }
+        },
+        "Layout": {
+            "Navbar": {
+                "HeaderNavbar": {
+                    "Menu": {
+                        "Home": "หน้าแรก",
+                        "About": "เกี่ยวกับเรา",
+                        "Profile": "โปรไฟล์"
+                    },
+                    "Login": "เข้าสู่ระบบ",
+                    "SignUp": "สมัครสมาชิก"
+                }
+            }
+        },
+        "Login": {
+            "LoginForm": {
+                "Email": "อีเมล",
+                "Password": "รหัสผ่าน",
+                "InvalidEmail": "อีเมลไม่ถูกต้อง",
+                "EmptyPassword": "รหัสผ่านว่างเปล่า",
+                "Login": "เข้าสู่ระบบ",
+                "LoginError": "รหัสผ่านไม่ถูกต้อง",
+                "SignUpDescription": "คุณยังไม่มีบัญชีใช่ไหม?",
+                "SignUp": "สมัครสมาชิก"
+            }
+        }
+    }
+}
